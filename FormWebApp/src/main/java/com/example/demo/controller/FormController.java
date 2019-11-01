@@ -48,6 +48,7 @@ public class FormController {
 	private Validator validator;
 
 	public FormController() {
+		System.out.println("***** FormController.constructor 0 param ***** ");
 		System.out.println("***** FormController.constructor ***** ");
 	}
 
