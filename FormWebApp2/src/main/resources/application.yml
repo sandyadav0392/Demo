@@ -1,13 +1,0 @@
-#server port Configuration
-server:
-     port: 9393
-# view configuration
-spring:  mvc:    view:      prefix: /views/ 
-      suffix: .jsp#  profiles:#    active: qa 
-#dataSource configure    datasource:
-    name:
-    username:
-    password:
-    driver-class-name: 
-    url: 
-         jpa:    hibernate:      ddl-auto: update   
