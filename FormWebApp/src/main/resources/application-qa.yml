@@ -1,7 +1,0 @@
-   #properties variable configuration
-formapp:
-    messages:
-           succ: Registration successful-qa
-           fail: Registration Unsuccessful-qa
-           lsucc: login Successful-qa
-           lfail: mail does't exist-qa 
